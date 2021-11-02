@@ -28,6 +28,16 @@ const routes = [
       name: 'jbxx',
       component: () => import('../views/jbxx/index.vue'),
      },
+     {
+      path: '/Homes',
+      name: 'Homes',
+      component: () => import('../views/kcgl/Homes.vue'),
+     },
+     {
+      path: '/Cart',
+      name: 'Cart',
+      component: () => import('../views/kcgl/Cart.vue'),
+     },
     ]
 
   }
