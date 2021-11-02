@@ -172,8 +172,8 @@
 .device {
   position: relative;
   float: left;
-  width: 100%;
-  height: 6.67rem;
+  width: 1000px;
+  height: 100%;
   background-color: #eee;
   border-radius: .04rem;
   overflow: hidden;

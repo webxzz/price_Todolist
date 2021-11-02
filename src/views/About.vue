@@ -14,10 +14,10 @@
     <div class="con_box">
       <div class="con_left">
         <ul>
-          <li><router-link to="/about/"  class="sy">系统首页</router-link></li>
+          <li><router-link to="/xtsy"  class="sy">系统首页</router-link></li>
           <li><router-link to="/about/jbxx"  class="sy">基本信息</router-link></li>
           <li><router-link to="/Homes"  class="sy">课程管理</router-link></li>
-          
+          <li><router-link to="/land"  class="sy">登陆信息</router-link></li>
         </ul>
       </div>
           <router-view />
